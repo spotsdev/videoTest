@@ -8,4 +8,4 @@
     
 ### 8.23.17
 
-  The video player works well in the browser, but fails when the .apk is generated and installed. It also fails when played through the PhoneGap app.   
+  Have only tested on Android 4.1.2 so far. The video player works well in the browser, but fails when the .apk is generated and installed. It also fails when played through the PhoneGap app. 
