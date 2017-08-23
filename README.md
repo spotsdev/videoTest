@@ -1,29 +1,11 @@
-# Framework7 PhoneGap Application 
+# Test Video App 
 
-> [Framework7](http://www.idangero.us/framework7) is a Mobile UI framework that can be used to build hybrid apps with PhoneGap. This template allows you to get started using Framework7 
-  quickly. 
+> Created 8.23.17 by Seth Watson to test playing video from an embedded iframe using a hosted video streaming service 
   
-  For a more extensive Framework7 sample, see the [one included in their Github project](https://github.com/nolimits4web/Framework7/tree/master/dist)
-  or the [demo apps on their website](http://www.idangero.us/framework7/apps/#.VpQCc5MrKjQ).
+  I have been testing this to determine viability of using certain video hosting services to create cross-platform web and mobile solutions for an existing web-based video training software product.
+
+## Testing Notes
     
-  Also, for an intro to Framework7, check out [this post on the PhoneGap blog](http://phonegap.com/blog/2015/11/30/framework7/).   
+### 8.23.17
 
-
-## Usage
-    
-### PhoneGap CLI
-
-    $ phonegap create my-app --template phonegap-template-framework7
-
-### Cordova CLI
-
-    $ cordova create my-app --template phonegap-template-framework7
-    
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
-
-
-  
+  The video player works well in the browser, but fails when the .apk is generated and installed. It also fails when played through the PhoneGap app.   
